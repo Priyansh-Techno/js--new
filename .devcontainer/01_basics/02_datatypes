@@ -1,0 +1,26 @@
+"use strict";  //trear all js code as newer version
+
+//alert("hello"). //we are using node js not browser
+
+console.log(3+3);  // code reradability should be high
+console.log("pg")
+
+let name ="pg"//string
+let age = 18 //number
+let isLoggedIn = false  //boolean
+let stae =null //null
+let stare = "" //undefined
+
+//bigint
+//string=> ""
+//boolean=> yes or no
+//null =>  stand alone value
+//undefined =>
+ //symbol => to define uniqueness
+
+
+//object
+
+console.log(typeof age);
+console.log(typeof null);
+
